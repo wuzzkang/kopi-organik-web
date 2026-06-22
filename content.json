@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "theme": "light",
+    "title": "KopiKita"
+  },
+  "content": {
+    "hero": {
+      "heading": "Minum Kopi, Dengan Hati",
+      "cta_text": "Cari Tahu",
+      "subheading": "Toko kopi organik modern di Jakarta dengan kualitas terbaik dan proses ramah lingkungan"
+    }
+  },
+  "features": [
+    {
+      "desc": "Kopi kami dipilih dari biji kopi terbaik dan diproses dengan hati-hati untuk menjamin rasa yang sempurna",
+      "icon": "☕️",
+      "title": "Kopi Berkualitas"
+    },
+    {
+      "desc": "Kami berkomitmen untuk mengurangi dampak lingkungan dengan menggunakan kemasan yang ramah lingkungan dan sumber daya alam yang berkelanjutan",
+      "icon": "🌿",
+      "title": "Ramah Lingkungan"
+    },
+    {
+      "desc": "Kami menawarkan berbagai varian kopi untuk memenuhi selera dan kebutuhan pelanggan, dari kopi hitam hingga kopi susu",
+      "icon": "👥",
+      "title": "Kopi untuk Semua"
+    },
+    {
+      "desc": "Toko kami terletak di pusat kota Jakarta, membuatnya mudah dijangkau dan nyaman untuk dikunjungi",
+      "icon": "📍",
+      "title": "Lokasi Strategis"
+    },
+    {
+      "desc": "Kami menawarkan layanan pemesanan online untuk memudahkan pelanggan dalam membeli kopi kami",
+      "icon": "💻",
+      "title": "Pesan Online"
+    }
+  ]
+}
